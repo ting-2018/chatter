@@ -1,3 +1,3 @@
 # chatter
 
-This is my chatter app
+This is my chatter app...
